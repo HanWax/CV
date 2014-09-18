@@ -15,7 +15,7 @@ Code examples
 Web development
 ---------------
 
-### [Makers Academy]
+### Makers Academy
 ##### 12 weeks immersive web development bootcamp: June - September 2014
 Learned cutting edge coding techniques and best practices from world class developers, project-based test-driven work and pair programming.
 
@@ -89,7 +89,7 @@ More about me
 
 * Email: hannah.waxman8@gmail.com
 * Phone: 07988044884
-* Software blog: [http://hanwax.github.io/]
+* Software blog: http://hanwax.github.io/
 * Twitter: [@hannahwaxman](https://twitter.com/HannahWaxman)
 
 
