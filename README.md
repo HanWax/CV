@@ -78,7 +78,6 @@ attended by over 100 students every week.
 
 Interests
 ---------
-
 * Code readability
 * Ed Tech
 * Table tennis
@@ -86,7 +85,6 @@ Interests
 
 More about me
 -------------
-
 * Email: hannah.waxman8@gmail.com
 * Phone: 07988044884
 * Software blog: http://hanwax.github.io/
