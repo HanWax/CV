@@ -42,8 +42,8 @@ Learned cutting edge coding techniques and best practices from world class devel
 Education
 ---------
 
-### University of Cambridge, BA(Hons) (2011-2014) - 2.1
-##### Management Studies Tripos (2013-2014)
+### University of Cambridge, BA(Hons) (2011-2014) 
+##### Management Studies Tripos (2013-2014) - 2.1
 * Core modules: Operations Management, Quantitative Methods, Economics of Firms and Markets, Accounting and Finance, Marketing, Organisational Behaviour, Negotiations Workshop
 * Additional modules: International Business Economics and Strategic Management
 * Consulting project: conducted a 4 week research project for EnergiMaster, a smart energy metering start-up. I researched how the company could best utilise the data that they would gather from their smart-energy products
