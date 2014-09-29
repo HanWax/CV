@@ -1,16 +1,16 @@
 Hannah Waxman
 ==============
 
-I am a passionate and perseverant junior level Software Developer currently available for employment. I have just graduated from Makers Academy, a 12 week web development bootcamp. 
+I am an enthusiastic and perseverant junior level Software Developer currently available for employment. I have just graduated from Makers Academy, an intensive 12 week web development bootcamp, where I learnt to code and build cool things. 
 
 [Read my code](https://github.com/HanWax) on GitHub.
 
 Code examples
 -------------
 
-| [Mist](https://github.com/HanWax/so_close) | [Latergram](https://github.com/HanWax/latergram) | [Airport Control](https://github.com/HanWax/airport-control) |
+| [Mist](https://github.com/HanWax/so_close) | [Latergram](https://github.com/HanWax/latergram) | [Bookmark Manager](https://github.com/HanWax/bookmark_manager) | 
 | ------------- | ------------ | ---------- |
-| Mist is a fun web app designed to let you know which friends you almost bumped in to on the previous day. 100% test driven and built in 10 days as a final project at Makers Academy. | Latergram is an Instagram clone built using the Rails framework over 4 days at Makers Academy. | Airport control is a test driven Object Oriented exercise designed to simulate a simple airport control system using Ruby and RSpec. |
+| Mist is a fun web app designed to let you know which friends you almost bumped in to on the previous day. 100% test driven and built in 10 days as a final project at Makers Academy. | Latergram is an Instagram clone built using the Rails framework over 4 days at Makers Academy. | Bookmark Manager is a test driven Sinatra app designed to allow users to save and tag links for later viewing. Built using Ruby, Sinatra, Datamapper, Postgresql, Cucumber, RSpec, BCrypt. |
 
 Web development
 ---------------
